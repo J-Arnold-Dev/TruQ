@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif ;
+}
+*{
+    box-sizing: border-box;
+}
+.header{
+    max-width: 100%;
+    max-height: 100%;
+    background-color: #fff;
+}
+.navbar-default{
+    height: 100%;
+    width: 100%;
+    padding: 10px 50px 150px;
+}
+.navbar-header{
+    float: left;
+    max-width: 100%;
+    margin-right: 20%;
+}
+.navbar-header .navbar-brand{
+    color: blue;
+    font-size: 30px;
+}
+.navbar-brand .big{
+    font-size: 32px;
+}
+.navbar-nav{
+    float: left;
+    max-height: 100%;
+    max-width: 100%;
+    padding-top: 5px;
+    margin-right: 10%;
+}
+.navbar-nav .navbar-body .nav-list{
+    display: inline;
+    list-style: none;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 400;
+    margin-right: 30px;
+}
+.nav-list .nav-link{
+    color: black;
+}
+.nav-list .blue-home{
+    color: rgb(44, 44, 236);
+}
+.navbar-btn{
+    float: left;
+    max-height: 100%;
+    max-width: 100%;
+    padding-top: 10px;
+}
+.navbar-btn .nav-btn .btn-btn{
+    display: inline;
+}
+/*
+.navbar-btn{
+    float: left;
+    max-height: 100%;
+    max-width: 100%;
+    padding-top: 25px;
+}
+.navbar-btn .nav-btn .btn-btn{
+    display: inline;
+    list-style: none;
+    margin-right: 15px;    
+}
+.nav-btn .btn-btn .btn-info{
+    border: 1.5px solid  #2D3892;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 5px;
+    padding: 5px 15px;
+    background-color: transparent;
+}
+.btn-info .btn-primary{
+    color: #171d74;
+}
+.nav-btn .btn-btn .btn-info-2{
+    border: 1.5px solid #2D3892;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 5px;
+    padding: 5px 15px;
+    background-color: #2D3892;
+    ;
+}
+.btn-info-2 .btn-primary{
+    color: #ffff;
+}
+*/
